@@ -23,10 +23,12 @@
 | 7.1.1 除法 | [725 - Division](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=666) | [C++]() |
 | 5.2.1 小学生算术 | [10035 - Primary Arithmetic](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=976) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10035-Primary_Arithmetic) |
 | 5.1.1 WERTYU | [10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10082-WERTYU) |
+| 7.2.1 生成1~n的排列/7.2.2 生成可重集的排列 | [10098 - Generating Fast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1039) | [C++]() |
 | 5.4.4 多少块土地 | [10213 - How Many Pieces of Land ?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=14&page=show_problem&problem=1154) | [C++/Java](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10213-How_Many_Pieces_of_land) |
 | 6.1.1 卡片游戏 | [10935 - Throwing cards away I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10935-Throwing_cards_away_I) |
-| 7.1.2 最大乘积 | [11059 - Maximum Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2000) | [C++]() |
 | 7.1.3 分数拆分 | [10976 - Fractions Again?!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=1917) | [C++]() |
+| 7.1.2 最大乘积 | [11059 - Maximum Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2000) | [C++]() |
+
 
 ## NYOJ
 
@@ -44,8 +46,10 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 6.4.2 走迷宫 | [3984 迷宫问题](http://poj.org/problem?id=3984) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/POJ_3984-Maze_Problem) |
 | 6.4.4 欧拉回路 | [1041 John's trip](http://poj.org/problem?id=1041) | [C++]() |
+| 6.4.2 走迷宫 | [3984 迷宫问题](http://poj.org/problem?id=3984) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/POJ_3984-Maze_Problem) |
+| 7.3 子集生成 | [2718 Smallest Difference](http://poj.org/problem?id=2718) | [C++]() |
+
 
 ## HDUOJ
 
@@ -58,3 +62,9 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 7.1.4 双基回文数 | [4831 双基回文数](http://nnsznoi.openjudge.cn/directlycalculatin/0004/) | [C++]() |
+
+## LeetCode
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 7.2.4 下一个排列 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++]() |
