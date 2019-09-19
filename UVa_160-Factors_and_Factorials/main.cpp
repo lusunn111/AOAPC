@@ -52,6 +52,7 @@ int main(){
     Solution s;
     int N;
     vector<int> prime_nums;
+    //为什么素因子不大于100？输入的n是小于等于100的，那么100的阶乘的每个因子都小于100,每个因子分解为素因子的乘积，则素因子更是小于100的。
     for(int i=2; i<100; ++i){
         if(s.isPrime(i)){
             prime_nums.push_back(i);
