@@ -31,6 +31,7 @@ public:
 	}
     */
     //优先队列法
+    //用queue处理保证了正确的一种顺序，用priority又保证了字典序
 	vector<int> topSort(vector<vector<int> >& adjac_list, vector<int>& in_degree){
         priority_queue<int, vector<int>, greater<int> > q;
         for(int i=1; i<in_degree.size(); ++i){
