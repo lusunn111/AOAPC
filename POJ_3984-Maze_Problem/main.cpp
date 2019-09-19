@@ -20,6 +20,7 @@ public:
 		q.push(make_pair(0, 0));
 		father.at(0).at(0) = make_pair(-1, -1);
 		vis.at(0).at(0) = true;
+		//哪条路径最先把end的vis改为true，那么在输出时向father追溯就走的哪条路径。
 		while(!q.empty()){
 			int row = q.front().first;
 			int col = q.front().second;
@@ -28,6 +29,7 @@ public:
 			int row_down = row + 1;
 			int col_left = col - 1;
 			int col_right = col + 1;
+			//由于保证只有一条最优解，所以先向下还是先向右并无区别。
 			if(row_down>=0 && row_down<5 && !vis.at(row_down).at(col) && !maze.at(row_down).at(col)){
 				q.push(make_pair(row_down, col));
 				father.at(row_down).at(col) = make_pair(row, col);
