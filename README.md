@@ -84,11 +84,18 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 7.2.1 生成1~n的排列/7.2.2 生成可重集的排列 | [10098 - Generating Fast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1039) | [C++]() |
+| 7.2.1 生成1~n的排列/7.2.2 生成可重集的排列 | [UVa 10098 - Generating Fast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1039) | [C++]() |
 | 7.2.4 下一个排列 | [LeetCode 31. Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++]() |
 
 ### 7.3 子集生成
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 7.3 子集生成 | [2718 Smallest Difference](http://poj.org/problem?id=2718) | [C++]() |
+| 7.3 子集生成 | [POJ 2718 Smallest Difference](http://poj.org/problem?id=2718) | [C++]() |
+
+## 7.4 回溯法
+
+| Example | Problem | Solution |
+| ------- | ------- | -------- |
+| 7.4.1 八皇后问题 | [UVa 750 - 8 Queens Chess Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=691) | [C++]() |
+
