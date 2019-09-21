@@ -93,9 +93,10 @@
 | --- | --- | --- |
 | 7.3 子集生成 | [POJ 2718 Smallest Difference](http://poj.org/problem?id=2718) | [C++]() |
 
-## 7.4 回溯法
+### 7.4 回溯法
 
 | Example | Problem | Solution |
 | ------- | ------- | -------- |
 | 7.4.1 八皇后问题 | [UVa 750 - 8 Queens Chess Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=691) | [C++]() |
-
+| 7.4.2 素数环 | [UVa 524 - Prime Ring Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=465) | [C++]() |
+| 7.4.3 困难的串 | [UVa 129 - Krypton Factor](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=65) | [C++]() |
