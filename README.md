@@ -25,7 +25,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 5.3.1 6174问题 | [NYOJ 57 6174问题](http://www.51mxd.cn/problem.php-pid=57.htm) | [C++]() |
+| 5.3.1 6174问题 | [NYOJ 57 6174问题](http://www.51mxd.cn/problem.php-pid=57.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_57-6174) |
 | 5.3.2 字母重排 | [UVa 642 - Word Amalgamation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=583) | [C++]() |
 
 ### 5.4 数学基础
@@ -78,20 +78,20 @@
 | 7.1.1 除法 | [UVa 725 - Division](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=666) | [C++]() |
 | 7.1.2 最大乘积 | [UVa 11059 - Maximum Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2000) | [C++]() |
 | 7.1.3 分数拆分 | [UVa 10976 - Fractions Again?!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=1917) | [C++]() |
-| 7.1.4 双基回文数 | [OpenJudge 4831 双基回文数](http://nnsznoi.openjudge.cn/directlycalculatin/0004/) | [C++]() |
+| 7.1.4 双基回文数 | [OpenJudge 4831 双基回文数](http://nnsznoi.openjudge.cn/directlycalculatin/0004/) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/OpenJudge_4831-Double_Base_Palindrome_Number) |
 
 ### 7.2 枚举排列
 
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 7.2.1 生成1~n的排列/7.2.2 生成可重集的排列 | [UVa 10098 - Generating Fast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1039) | [C++]() |
-| 7.2.4 下一个排列 | [LeetCode 31. Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++]() |
+| 7.2.4 下一个排列 | [LeetCode 31. Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LeetCode_31-Next_Permutation) |
 
 ### 7.3 子集生成
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 7.3 子集生成 | [POJ 2718 Smallest Difference](http://poj.org/problem?id=2718) | [C++]() |
+| 7.3 子集生成 | [POJ 2718 Smallest Difference](http://poj.org/problem?id=2718) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_2718-Smallest_Difference) |
 
 ### 7.4 回溯法
 
@@ -100,3 +100,4 @@
 | 7.4.1 八皇后问题 | [UVa 750 - 8 Queens Chess Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=691) | [C++]() |
 | 7.4.2 素数环 | [UVa 524 - Prime Ring Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=465) | [C++]() |
 | 7.4.3 困难的串 | [UVa 129 - Krypton Factor](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=65) | [C++]() |
+| 7.4.4 带宽 | [140 - Bandwidth](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=76) | [C++]() |
