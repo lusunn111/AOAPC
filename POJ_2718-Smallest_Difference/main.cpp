@@ -205,8 +205,7 @@ void solve()
     printf("%d\n", ans);
 }
 
-int main()
-{
+int main(){
     int n;
     scanf("%d",&n);
     getchar();
