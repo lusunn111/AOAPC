@@ -84,7 +84,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 7.2.1 生成1~n的排列/7.2.2 生成可重集的排列 | [UVa 10098 - Generating Fast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1039) | [C++]() |
+| 7.2.1 生成1~n的排列/7.2.2 生成可重集的排列 | [UVa 10098 - Generating Fast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1039) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10098-Generating_Fast) |
 | 7.2.4 下一个排列 | [LeetCode 31. Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LeetCode_31-Next_Permutation) |
 
 ### 7.3 子集生成
@@ -100,4 +100,10 @@
 | 7.4.1 八皇后问题 | [UVa 750 - 8 Queens Chess Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=691) | [C++]() |
 | 7.4.2 素数环 | [UVa 524 - Prime Ring Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=465) | [C++]() |
 | 7.4.3 困难的串 | [UVa 129 - Krypton Factor](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=65) | [C++]() |
-| 7.4.4 带宽 | [140 - Bandwidth](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=76) | [C++]() |
+| 7.4.4 带宽 | [UVa 140 - Bandwidth](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=76) | [C++]() |
+
+## 7.5 隐式树的遍历
+
+| Example | Problem | Solution |
+| ------- | ------- | -------- |
+| 7.5.1_1 最优程序 | [POJ 1480 Optimal Programs](http://poj.org/problem?id=1480) | [C++]() |
