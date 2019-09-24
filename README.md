@@ -67,7 +67,7 @@
 | 6.4.1 黑白图像 | [UVa 572 - Oil Deposits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=513) | [C++]() |
 | 6.4.2 走迷宫 | [POJ 3984 迷宫问题](http://poj.org/problem?id=3984) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/POJ_3984-Maze_Problem) |
 | 6.4.3 拓扑排序 | [HDUOJ 1285 确定比赛名次](http://acm.hdu.edu.cn/showproblem.php?pid=1285) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/HDUOJ_1285-Determine_the_Place_of_Competition) |
-| 6.4.4 欧拉回路 | [UVa 1041 John's trip](http://poj.org/problem?id=1041) | [C++]() |
+| 6.4.4 欧拉回路 | [UVa 1041 John's trip](http://poj.org/problem?id=1041) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1041-John's_trip) |
 
 ## 第七章 暴力求解法
 
@@ -76,8 +76,8 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 7.1.1 除法 | [UVa 725 - Division](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=666) | [C++]() |
-| 7.1.2 最大乘积 | [UVa 11059 - Maximum Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2000) | [C++]() |
-| 7.1.3 分数拆分 | [UVa 10976 - Fractions Again?!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=1917) | [C++]() |
+| 7.1.2 最大乘积 | [UVa 11059 - Maximum Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2000) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_11059-Maximum_Product) |
+| 7.1.3 分数拆分 | [UVa 10976 - Fractions Again?!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=1917) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10976-Fractions_Again%3F!) |
 | 7.1.4 双基回文数 | [OpenJudge 4831 双基回文数](http://nnsznoi.openjudge.cn/directlycalculatin/0004/) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/OpenJudge_4831-Double_Base_Palindrome_Number) |
 
 ### 7.2 枚举排列
