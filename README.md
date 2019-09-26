@@ -102,10 +102,24 @@
 | 7.4.3 困难的串 | [UVa 129 - Krypton Factor](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=65) | [C++]() |
 | 7.4.4 带宽 | [UVa 140 - Bandwidth](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=76) | [C++]() |
 
-## 7.5 隐式树的遍历
+### 7.5 隐式树的遍历
 
 | Example | Problem | Solution |
 | ------- | ------- | -------- |
 | 7.5.1_1 最优程序 | [POJ 1480 Optimal Programs](http://poj.org/problem?id=1480) | [C++]() |
 | 7.5.1_2 埃及分数 | [UVa 12558 - Egyptian Fractions (HARD version)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=4003) | [C++]() |
 | 7.5.2 倒水问题 | [UVa 10603 - Fill](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1544) | [C++]() |
+| 7.5.3 八数码问题 | [Vijos 1360 八数码问题](https://vijos.org/p/1360) | [C++]() |
+
+## 第八章 高效算法设计
+
+
+
+### 8.1 算法初步分析
+
+
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 8.1 最大连续和 | [HDUOJ 1003 Max Sum](http://acm.hdu.edu.cn/showproblem.php?pid=1003) | [C++]() |
+
