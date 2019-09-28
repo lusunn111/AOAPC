@@ -56,7 +56,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 6.3.1 小球下落 | [UVa 679 - Dropping Balls](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=620) | [C++]() |
+| 6.3.1 小球下落 | [UVa 679 - Dropping Balls](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=620) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_679-Dropping_Balls) |
 | 6.3.2 层次遍历 | [UVa 122 - Trees on the level](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=58) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/UVa_122-Trees_on_the_level) |
 | 6.3.3 二叉树重建 | [UVa 536 - Tree Recovery](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=477) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/UVa_536-Tree_Recovery) |
 
@@ -75,7 +75,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 7.1.1 除法 | [UVa 725 - Division](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=666) | [C++]() |
+| 7.1.1 除法 | [UVa 725 - Division](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=666) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_725-Division) |
 | 7.1.2 最大乘积 | [UVa 11059 - Maximum Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2000) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_11059-Maximum_Product) |
 | 7.1.3 分数拆分 | [UVa 10976 - Fractions Again?!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=1917) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10976-Fractions_Again%3F!) |
 | 7.1.4 双基回文数 | [OpenJudge 4831 双基回文数](http://nnsznoi.openjudge.cn/directlycalculatin/0004/) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/OpenJudge_4831-Double_Base_Palindrome_Number) |
@@ -113,13 +113,11 @@
 
 ## 第八章 高效算法设计
 
-
-
 ### 8.1 算法初步分析
-
-
 
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 8.1 最大连续和 | [HDUOJ 1003 Max Sum](http://acm.hdu.edu.cn/showproblem.php?pid=1003) | [C++]() |
-
+| 8.2.1_1 归并排序 | [LintCode 463. Sort Integers](https://www.lintcode.com/problem/sort-integers/description) | [C++]() |
+| 8.2.1_2 逆序对数 | [POJ 1804 Brainman](http://poj.org/problem?id=1804) | [C++]() |
+| 8.2.2 快速排序 | [SJTUOJ 1525. 第K小的数](https://acm.sjtu.edu.cn/OnlineJudge/problem/1525) | [C++]() |
