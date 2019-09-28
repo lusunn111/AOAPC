@@ -67,7 +67,7 @@
 | 6.4.1 黑白图像 | [UVa 572 - Oil Deposits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=513) | [C++]() |
 | 6.4.2 走迷宫 | [POJ 3984 迷宫问题](http://poj.org/problem?id=3984) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/POJ_3984-Maze_Problem) |
 | 6.4.3 拓扑排序 | [HDUOJ 1285 确定比赛名次](http://acm.hdu.edu.cn/showproblem.php?pid=1285) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/HDUOJ_1285-Determine_the_Place_of_Competition) |
-| 6.4.4 欧拉回路 | [UVa 1041 John's trip](http://poj.org/problem?id=1041) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1041-John's_trip) |
+| 6.4.4 欧拉回路 | [POJ 1041 John's trip](http://poj.org/problem?id=1041) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1041-John's_trip) |
 
 ## 第七章 暴力求解法
 
@@ -97,7 +97,7 @@
 
 | Example | Problem | Solution |
 | ------- | ------- | -------- |
-| 7.4.1 八皇后问题 | [UVa 750 - 8 Queens Chess Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=691) | [C++]() |
+| 7.4.1 八皇后问题 | [UVa 750 - 8 Queens Chess Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=691) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_750-8_Queens_Chess_Problem) |
 | 7.4.2 素数环 | [UVa 524 - Prime Ring Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=465) | [C++]() |
 | 7.4.3 困难的串 | [UVa 129 - Krypton Factor](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=65) | [C++]() |
 | 7.4.4 带宽 | [UVa 140 - Bandwidth](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=76) | [C++]() |
@@ -117,7 +117,19 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 8.1 最大连续和 | [HDUOJ 1003 Max Sum](http://acm.hdu.edu.cn/showproblem.php?pid=1003) | [C++]() |
+| 8.1 最大连续和 | [HDUOJ 1003 Max Sum](http://acm.hdu.edu.cn/showproblem.php?pid=1003) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_1003-Max_Sum) |
+
+### 8.2 再谈排序与检索
+
+| Example | Problem | Solution |
+| --- | --- | --- |
 | 8.2.1_1 归并排序 | [LintCode 463. Sort Integers](https://www.lintcode.com/problem/sort-integers/description) | [C++]() |
 | 8.2.1_2 逆序对数 | [POJ 1804 Brainman](http://poj.org/problem?id=1804) | [C++]() |
-| 8.2.2 快速排序 | [SJTUOJ 1525. 第K小的数](https://acm.sjtu.edu.cn/OnlineJudge/problem/1525) | [C++]() |
+| 8.2.2 快速排序 | [SJTUOJ 1525. 第K小的数](https://acm.sjtu.edu.cn/OnlineJudge/problem/1525) | [C++]()|
+| 8.2.3 二分查找 | [LintCode 457. Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/) | [C++]() |
+
+### 8.3 递归与分治
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 8.3.1 棋盘覆盖问题 | [NYOJ 45 棋盘覆盖](http://www.51mxd.cn/problem.php-pid=45.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_45-Checkerboard_Coverage) |
