@@ -108,7 +108,7 @@
 | ------- | ------- | -------- |
 | 7.5.1_1 最优程序 | [POJ 1480 Optimal Programs](http://poj.org/problem?id=1480) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1480-Optimal_Programs) |
 | 7.5.1_2 埃及分数 | [UVa 12558 - Egyptian Fractions (HARD version)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=4003) | [C++]() |
-| 7.5.2 倒水问题 | [UVa 10603 - Fill](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1544) | [C++]() |
+| 7.5.2 倒水问题 | [UVa 10603 - Fill](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1544) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10603-Fill) |
 | 7.5.3 八数码问题 | [Vijos 1360 八数码问题](https://vijos.org/p/1360) | [C++]() |
 
 ## 第八章 高效算法设计
@@ -124,8 +124,8 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 8.2.1_1 归并排序 | [LintCode 463. Sort Integers](https://www.lintcode.com/problem/sort-integers/description) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LintCode_463-Sort_Integers) |
-| 8.2.1_2 逆序对数 | [POJ 1804 Brainman](http://poj.org/problem?id=1804) | [C++]() |
-| 8.2.2 快速排序 | [SJTUOJ 1525. 第K小的数](https://acm.sjtu.edu.cn/OnlineJudge/problem/1525) | [C++]()|
+| 8.2.1_2 逆序对数 | [POJ 1804 Brainman](http://poj.org/problem?id=1804) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1804-Brainman) |
+| 8.2.2 快速排序 | [SJTUOJ 1525. 第K小的数](https://acm.sjtu.edu.cn/OnlineJudge/problem/1525) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/SJTUOJ_1525-the_kth_minimum_number)|
 | 8.2.3 二分查找 | [LintCode 457. Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LintCode_457-Classical_Binary_Search) |
 
 ### 8.3 递归与分治
@@ -133,3 +133,5 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 8.3.1 棋盘覆盖问题 | [NYOJ 45 棋盘覆盖](http://www.51mxd.cn/problem.php-pid=45.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_45-Checkerboard_Coverage) |
+| 8.3.2 循环日程表问题 | NoneOJ 1 Cycle Schedule | [C++]() |
+| 8.3.3 巨人与鬼 | [UVa 1411 - Ants](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4157) | [C++]() |
