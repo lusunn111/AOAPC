@@ -135,3 +135,5 @@
 | 8.3.1 棋盘覆盖问题 | [NYOJ 45 棋盘覆盖](http://www.51mxd.cn/problem.php-pid=45.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_45-Checkerboard_Coverage) |
 | 8.3.2 循环日程表问题 | NoneOJ 1 Cycle Schedule | [C++]() |
 | 8.3.3 巨人与鬼 | [UVa 1411 - Ants](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4157) | [C++]() |
+| 8.3.4 非线性方程求根 | [UVa 10341 - Solve It](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1282) | [C++]() |
+
