@@ -136,4 +136,14 @@
 | 8.3.2 循环日程表问题 | NoneOJ 1 Cycle Schedule | [C++]() |
 | 8.3.3 巨人与鬼 | [UVa 1411 - Ants](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4157) | [C++]() |
 | 8.3.4 非线性方程求根 | [UVa 10341 - Solve It](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1282) | [C++]() |
+| 8.3.5 最大值最小化 | [UVa 714 - Copying Books](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=655) | [C++]() |
 
+### 8.3 贪心法
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 8.4.1 最优装载问题 | NoneOJ 2 Optimal Loading | [C++]() |
+| 8.4.2 部分背包问题 | NoneOJ 3 Partial Bag | [C++]() |
+| 8.4.3 乘船问题 | [NYOJ 71 独木舟上的旅行](http://www.51mxd.cn/problem.php-pid=71.htm) | [C++]() |
+| 8.4.4 选择不相交区间 | [NOJ 1269 区间相交问题](https://acm.njupt.edu.cn/problem/NOJ1269) | [C++]() |
+| 8.4.5 区间选点问题 | [UVa 10148 - Advertisement](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1089)  | [C++]() |
