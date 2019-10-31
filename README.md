@@ -147,3 +147,13 @@
 | 8.4.3 乘船问题 | [NYOJ 71 独木舟上的旅行](http://www.51mxd.cn/problem.php-pid=71.htm) | [C++]() |
 | 8.4.4 选择不相交区间 | [NOJ 1269 区间相交问题](https://acm.njupt.edu.cn/problem/NOJ1269) | [C++]() |
 | 8.4.5 区间选点问题 | [UVa 10148 - Advertisement](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1089)  | [C++]() |
+| 8.4.6 区间覆盖问题 | NoneOJ 4 Interval Coverage | [C++]() |
+| 8.4.7 Huffman编码 | NoneOJ 5 Coding | [C++]() |
+
+## 第九章 动态规划初步
+
+### 9.1 数字三角形
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 9.1 数字三角形 | [POJ 1163 The Triangle](http://poj.org/problem?id=1163) | [Java]() |
