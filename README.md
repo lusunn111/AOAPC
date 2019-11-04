@@ -157,3 +157,14 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 9.1 数字三角形 | [POJ 1163 The Triangle](http://poj.org/problem?id=1163) | [Java]() |
+
+
+### 9.2 DAG上的动态规划
+
+| 9.2_1 嵌套矩形 | [NYOJ 16 ](http://poj.org/problem?id=1163) | [Java]() |
+| 9.2_2 硬币问题 | [Liuser's OJ 725 硬币问题](http://liuseroj.picp.io/problem/725) | [C++]() |
+
+### 9.3 0-1背包问题
+
+| 9.3_1 物品无限的背包问题 | [HDUOJ 1268 寒冰王座](http://acm.hdu.edu.cn/showproblem.php?pid=1248) | [C++]() |
+| 9.3_2 0-1背包问题 | [HDUOJ 2602 Bone Collector](http://acm.hdu.edu.cn/showproblem.php?pid=2602) | [C++]() |
