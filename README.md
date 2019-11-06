@@ -161,10 +161,22 @@
 
 ### 9.2 DAG上的动态规划
 
+| Example | Problem | Solution |
+| --- | --- | --- |
 | 9.2_1 嵌套矩形 | [NYOJ 16 ](http://poj.org/problem?id=1163) | [Java]() |
 | 9.2_2 硬币问题 | [Liuser's OJ 725 硬币问题](http://liuseroj.picp.io/problem/725) | [C++]() |
 
 ### 9.3 0-1背包问题
 
+| Example | Problem | Solution |
+| --- | --- | --- |
 | 9.3_1 物品无限的背包问题 | [HDUOJ 1268 寒冰王座](http://acm.hdu.edu.cn/showproblem.php?pid=1248) | [C++]() |
 | 9.3_2 0-1背包问题 | [HDUOJ 2602 Bone Collector](http://acm.hdu.edu.cn/showproblem.php?pid=2602) | [C++]() |
+
+### 9.4 递归结构中的动态规划
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 9.4.1 表达式上的动态规划 | [UVa 348 Optimal Array Multiplication Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=284) | [C++]() |
+| 9.4.2 凸多边形上的动态规划 | [UVa 1331 Minimax Triangulation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4077) | [C++]() |
+| 9.4.3 树上的动态规划 | [UVa 1220 Party at Hali-Bula](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3661) | [C++]() |
