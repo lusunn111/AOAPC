@@ -195,3 +195,7 @@
 | --- | --- | --- |
 | 10.1.1 除法表达式 | [Lutece 469 除法表达式](https://acm.uestc.edu.cn/problem/chu-fa-biao-da-shi/description) | [C++]() |
 | 10.1.2 无平方因子的数 | [HDUOJ 3826 Squarefree number](http://acm.hdu.edu.cn/showproblem.php?pid=3826) | [C++]() |
+| 10.1.3 直线上的点 | [POJ 1061 青蛙的约会](http://poj.org/problem?id=1061) | [C++]() |
+| 10.1.4_1 大整数取模 | NoneOJ 6 Big Int Module | [C++]() |
+| 10.1.4_2 幂取模 | NoneOJ 7 Power Module | [C++]() |
+| 10.1.4_3 模线性方程 | [POJ 2142 The Balance](http://poj.org/problem?id=2142) | [C++]() |
