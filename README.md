@@ -199,3 +199,11 @@
 | 10.1.4_1 大整数取模 | NoneOJ 6 Big Int Module | [C++]() |
 | 10.1.4_2 幂取模 | NoneOJ 7 Power Module | [C++]() |
 | 10.1.4_3 模线性方程 | [POJ 2142 The Balance](http://poj.org/problem?id=2142) | [C++]() |
+
+### 10.2 排列与组合
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 10.2.1_1 无关的元素 | [UVa 1635 Irrelevant Elements](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4510) | [C++]() |
+| 10.2.1_2 约数的个数 | [UVa 294 Divisors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | [C++]() |
+| 10.2.1_3 小于n且与n互素的个数 | [UVa 10820 Send a Table](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761) | [C++]() |
