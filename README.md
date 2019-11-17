@@ -204,6 +204,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 10.2.1_1 无关的元素 | [UVa 1635 Irrelevant Elements](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4510) | [C++]() |
-| 10.2.1_2 约数的个数 | [UVa 294 Divisors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | [C++]() |
-| 10.2.1_3 小于n且与n互素的个数 | [UVa 10820 Send a Table](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761) | [C++]() |
+| 10.2.1 无关的元素 | [UVa 1635 Irrelevant Elements](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4510) | [C++]() |
+| 10.2.2_1 约数的个数 | [UVa 294 Divisors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | [C++]() |
+| 10.2.2_2 小于n且与n互素的个数 | [UVa 10820 Send a Table](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761) | [C++]() |
+| 10.2.4 离散概率初步 | [LightOJ 1104 Birthday Paradox](https://vjudge.net/problem/LightOJ-1104) | [C++]() |
