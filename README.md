@@ -217,4 +217,5 @@
 | 10.3.2 Fibonacci数列 | [51Nod-1242 斐波那契数列的第N项](https://vjudge.net/problem/51Nod-1242) | [C++]() |
 | 10.3.3 Catalan数 | [UVa 991 Safe Salutations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932) | [C++]() |
 | 10.3.4 危险的组合 | [UVa 580 Critical Mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=521) | [C++]() |
+| 10.3.5 统计n-k中特殊集的数目 | [入门OJ 1377 N-K集合](https://begin.lydsy.com/JudgeOnline/problem.php?id=1377) | [C++]() |
 
