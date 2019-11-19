@@ -208,3 +208,13 @@
 | 10.2.2_1 约数的个数 | [UVa 294 Divisors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | [C++]() |
 | 10.2.2_2 小于n且与n互素的个数 | [UVa 10820 Send a Table](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761) | [C++]() |
 | 10.2.4 离散概率初步 | [LightOJ 1104 Birthday Paradox](https://vjudge.net/problem/LightOJ-1104) | [C++]() |
+
+### 10.3 递推关系
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 10.3.1 汉诺塔 | [OpenJudge_Bailian 4147 Hanoi](https://vjudge.net/problem/OpenJ_Bailian-4147) | [C++]() |
+| 10.3.2 Fibonacci数列 | [51Nod-1242 斐波那契数列的第N项](https://vjudge.net/problem/51Nod-1242) | [C++]() |
+| 10.3.3 Catalan数 | [UVa 991 Safe Salutations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932) | [C++]() |
+| 10.3.4 危险的组合 | [UVa 580 Critical Mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=521) | [C++]() |
+
