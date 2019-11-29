@@ -229,3 +229,9 @@
 | 10.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++]() |
 | 10.1.3 最小生成树 | [UVa 10034	Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++]() |
 | 10.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++]() |
+
+### 11.2 最短路问题
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 10.2.1-3 Dijkstra算法 | [HDUOJ 2544 最短路](http://acm.hdu.edu.cn/showproblem.php?pid=2544) | [C++]() |
