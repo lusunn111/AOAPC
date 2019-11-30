@@ -235,3 +235,4 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 10.2.1-3 Dijkstra算法 | [HDUOJ 2544 最短路](http://acm.hdu.edu.cn/showproblem.php?pid=2544) | [C++]() |
+| 10.2.4 Bellman-Ford算法 | [POJ 3259 Wormholes](http://poj.org/problem?id=3259) | [C++]() |
