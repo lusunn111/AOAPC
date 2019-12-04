@@ -225,14 +225,20 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 10.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++]() |
-| 10.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++]() |
-| 10.1.3 最小生成树 | [UVa 10034	Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++]() |
-| 10.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++]() |
+| 11.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++]() |
+| 11.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++]() |
+| 11.1.3 最小生成树 | [UVa 10034	Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++]() |
+| 11.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++]() |
 
 ### 11.2 最短路问题
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 10.2.1-3 Dijkstra算法 | [HDUOJ 2544 最短路](http://acm.hdu.edu.cn/showproblem.php?pid=2544) | [C++]() |
-| 10.2.4 Bellman-Ford算法 | [POJ 3259 Wormholes](http://poj.org/problem?id=3259) | [C++]() |
+| 11.2.1-3 Dijkstra算法 | [HDUOJ 2544 最短路](http://acm.hdu.edu.cn/showproblem.php?pid=2544) | [C++]() |
+| 11.2.4 Bellman-Ford算法 | [POJ 3259 Wormholes](http://poj.org/problem?id=3259) | [C++]() |
+
+### 11.3 网络流初步
+
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 11.3.2 增广路算法 | [HDUOJ 1532 Drainage Ditches](http://acm.hdu.edu.cn/showproblem.php?pid=1532) | [C++]() |
