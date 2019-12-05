@@ -23,6 +23,7 @@ using std::max;
 
 constexpr double INF = DBL_MAX;
 
+//prime算法：选择一个起始点，每次从所有已选点的一步可达点中选择最短的路
 double prim(vector<vector<double> >& matrix, int num_of_points){
     vector<int> res;
     double weight(0);
@@ -81,7 +82,7 @@ int getEnd(vector<int>& vends, int i){
     return i;
 }
 
-//选择最短边，判断有没有回路
+//kruskal算法：每次选择所有边中的最短边，判断有没有回路
 double kruskal(vector<vector<double> >& matrix, int num_of_points){
     vector<edge> edges;
     for(int i=0; i<num_of_points; ++i){
@@ -108,7 +109,7 @@ double kruskal(vector<vector<double> >& matrix, int num_of_points){
 }
 
 int main(){
-    int T;
+    int T;//测试用例数
     cin >> T;
     while(T--){
         cin.get();
@@ -117,6 +118,7 @@ int main(){
 
         vector<double> x(num_of_points, 0.0);
         vector<double> y(num_of_points, 0.0);
+        //邻接矩阵
         vector<vector<double> > matrix(num_of_points, vector<double>(num_of_points, INF));
 
         //读取坐标
