@@ -128,7 +128,7 @@
 | 8.2.2 快速排序 | [SJTUOJ 1525. 第K小的数](https://acm.sjtu.edu.cn/OnlineJudge/problem/1525) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/SJTUOJ_1525-the_kth_minimum_number)|
 | 8.2.3 二分查找 | [LintCode 457. Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LintCode_457-Classical_Binary_Search) |
 
-### 8.3 递归与分治
+### 8.4 递归与分治
 
 | Example | Problem | Solution |
 | --- | --- | --- |
@@ -225,7 +225,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 11.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++]() |
+| 11.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度派生类可以访问基类中的protected](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++]() |
 | 11.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++]() |
 | 11.1.3 最小生成树 | [UVa 10034	Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++]() |
 | 11.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++]() |
@@ -242,3 +242,14 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 11.3.2 增广路算法 | [HDUOJ 1532 Drainage Ditches](http://acm.hdu.edu.cn/showproblem.php?pid=1532) | [C++]() |
+| 11.3.3 最小割最大流定理 | [HDUOJ 3987 Harry Potter and the Forbidden Forest](http://acm.hdu.edu.cn/showproblem.php?pid=3987) | [C++]() |
+| 11.3.4 最小费用最大流问题 | []() | [C++]() |
+
+# 巩固
+
+表达式树
+[UVa 12219 - Common Subexpression Elimination](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3371)
+
+最小生成树
+
+[UVa 1395 - Slim Span](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4141)
