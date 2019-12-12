@@ -177,15 +177,15 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 9.4.1 表达式上的动态规划 | [UVa 348 Optimal Array Multiplication Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=284) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_348-Optimal_Array_Multiplication_Sequence) |
-| 9.4.2 凸多边形上的动态规划 | [UVa 1331 Minimax Triangulation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4077) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1331-Minimax_Triangulation) |
-| 9.4.3 树上的动态规划 | [UVa 1220 Party at Hali-Bula](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3661) | [C++]() |
+| 9.4.1 表达式上的动态规划 | [UVa 348 - Optimal Array Multiplication Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=284) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_348-Optimal_Array_Multiplication_Sequence) |
+| 9.4.2 凸多边形上的动态规划 | [UVa 1331 - Minimax Triangulation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4077) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1331-Minimax_Triangulation) |
+| 9.4.3 树上的动态规划 | [UVa 1220 - Party at Hali-Bula](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3661) | [C++]() |
 
 ### 9.5 集合上的动态规划
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 9.5 集合上的动态规划 | [UVa 10911 Forming Quiz Teams](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1852) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10911-Forming_Quiz_Teams) |
+| 9.5 集合上的动态规划 | [UVa 10911 - Forming Quiz Teams](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1852) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10911-Forming_Quiz_Teams) |
 
 ## 第10章 数学概念与方法
 
@@ -204,9 +204,9 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 10.2.1 无关的元素 | [UVa 1635 Irrelevant Elements](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4510) | [C++]() |
-| 10.2.2_1 约数的个数 | [UVa 294 Divisors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_294-Divisors) |
-| 10.2.2_2 小于n且与n互素的个数 | [UVa 10820 Send a Table](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10820-Send_a_Table) |
+| 10.2.1 无关的元素 | [UVa 1635 - Irrelevant Elements](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4510) | [C++]() |
+| 10.2.2_1 约数的个数 | [UVa 294 - Divisors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_294-Divisors) |
+| 10.2.2_2 小于n且与n互素的个数 | [UVa 10820 - Send a Table](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10820-Send_a_Table) |
 | 10.2.4 离散概率初步 | [LightOJ 1104 Birthday Paradox](https://vjudge.net/problem/LightOJ-1104) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LightOJ_1104-Birthday_Paradox) |
 
 ### 10.3 递推关系
@@ -215,8 +215,8 @@
 | --- | --- | --- |
 | 10.3.1 汉诺塔 | [OpenJudge_Bailian 4147 Hanoi](https://vjudge.net/problem/OpenJ_Bailian-4147) | [C++]() |
 | 10.3.2 Fibonacci数列 | [51Nod-1242 斐波那契数列的第N项](https://vjudge.net/problem/51Nod-1242) | [C++]() |
-| 10.3.3 Catalan数 | [UVa 991 Safe Salutations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932) | [C++]() |
-| 10.3.4 危险的组合 | [UVa 580 Critical Mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=521) | [C++]() |
+| 10.3.3 Catalan数 | [UVa 991 - Safe Salutations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932) | [C++]() |
+| 10.3.4 危险的组合 | [UVa 580 - Critical Mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=521) | [C++]() |
 | 10.3.5 统计n-k中特殊集的数目 | [入门OJ 1377 N-K集合](https://begin.lydsy.com/JudgeOnline/problem.php?id=1377) | [C++]() |
 
 ## 第11章 图论模型与算法
@@ -227,7 +227,7 @@
 | --- | --- | --- |
 | 11.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度派生类可以访问基类中的protected](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++]() |
 | 11.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++]() |
-| 11.1.3 最小生成树 | [UVa 10034	Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++]() |
+| 11.1.3 最小生成树 | [UVa 10034 - Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++]() |
 | 11.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++]() |
 
 ### 11.2 最短路问题
@@ -244,6 +244,25 @@
 | 11.3.2 增广路算法 | [HDUOJ 1532 Drainage Ditches](http://acm.hdu.edu.cn/showproblem.php?pid=1532) | [C++]() |
 | 11.3.3 最小割最大流定理 | [HDUOJ 3987 Harry Potter and the Forbidden Forest](http://acm.hdu.edu.cn/showproblem.php?pid=3987) | [C++]() |
 | 11.3.4 最小费用最大流问题 | []() | [C++]() |
+
+# 算法竞赛入门经典第二版
+
+## 第3章 数组和字符串
+
+### 例题
+
+| Example | Problem | Solution | remark |
+| --- | --- | --- | --- |
+| 例题3-1 | [UVa 272 - TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=208) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/272-TEX_Quotes) | 输入输出详解 |
+| 例题3-2 | [UVa 10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10082-WERTYU) | 常量数组的妙用 |
+| 例题3-3 | [UVa 401 - Palindromes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=342) | [C++]() | 字符函数;常量数组 |
+| 例题3-4 | [UVa 340 - Master-Mind Hints]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=276) | 用数组统计 |
+| 例题3-5 | [UVa 1583 - ](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++]() | 预处理、查表 |
+| 例题3-6 | [UVa 1594 - ](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++]() | 字典序 |
+
+
+
+
 
 # 巩固
 
