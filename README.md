@@ -257,8 +257,8 @@
 | 例题3-2 | [UVa 10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10082-WERTYU) | 常量数组的妙用 |
 | 例题3-3 | [UVa 401 - Palindromes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=342) | [C++]() | 字符函数;常量数组 |
 | 例题3-4 | [UVa 340 - Master-Mind Hints]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=276) | 用数组统计 |
-| 例题3-5 | [UVa 1583 - ](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++]() | 预处理、查表 |
-| 例题3-6 | [UVa 1594 - ](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++]() | 字典序 |
+| 例题3-5 | [UVa 1583 - Digit Generator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++]() | 预处理、查表 |
+| 例题3-6 | [UVa 1584 - Circular Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++]() | 字典序 |
 
 
 
