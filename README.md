@@ -260,7 +260,22 @@
 | 例题3-5 | [UVa 1583 - Digit Generator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++]() | 预处理、查表 |
 | 例题3-6 | [UVa 1584 - Circular Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++]() | 字典序 |
 
+### 习题
 
+| Example | Problem | Solution | remark |
+| --- | --- | --- | --- |
+| 习题3-1 | [UVa 1585 - Score](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4460) | [C++]() |  |
+| 习题3-2 | [UVa 1586 - Molar mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4461) | [C++]() |  |
+| 习题3-3 | [UVa 1225 - Digit Counting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3666) | [C++]() |  |
+| 习题3-4 | [UVa 455 - Periodic Strings](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=396) | [C++]() |  |
+| 习题3-5 | [UVa 	227 - Puzzle](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=163) | [C++]() |  |
+| 习题3-6 | [UVa 232 - Crossword Answers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=168) | [C++]() |  |
+| 习题3-7 | [UVa 1368 - DNA Consensus String](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4114) | [C++]() |  |
+| 习题3-8 | [UVa 202 - Repeating Decimals](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=138) | [C++]() |  |
+| 习题3-9 | [UVa 10340 - All in All](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1281) | [C++]() |  |
+| 习题3-10 | [UVa 1587 - Box](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4462) | [C++]() |  |
+| 习题3-11 | [UVa 1588 - Kickdown](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4463) | [C++]() |  |
+| 习题3-12 | [UVa 11809 - Floating-Point Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2909) | [C++]() |  |
 
 
 
