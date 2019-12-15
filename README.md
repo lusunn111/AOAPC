@@ -144,7 +144,7 @@
 | --- | --- | --- |
 | 8.4.1 最优装载问题 | NoneOJ 2 Optimal Loading | [Java](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_2-Optimal_Loading) |
 | 8.4.2 部分背包问题 | NoneOJ 3 Partial Bag | [Java](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_3-Partial_Bag) |
-| 8.4.3 乘船问题 | [NYOJ 71 独木舟上的旅行](http://www.51mxd.cn/problem.php-pid=71.htm) | [C++]() |
+| 8.4.3 乘船问题 | [NYOJ 71 独木舟上的旅行](http://www.51mxd.cn/problem.php-pid=71.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_71-Travel_on_canoes) |
 | 8.4.4 选择不相交区间 | [NOJ 1269 区间相交问题](https://acm.njupt.edu.cn/problem/NOJ1269) | [Java](https://github.com/Ubuntu1996/AOAPC/tree/master/NOJ_1269-Select_Disjoint_Interval) |
 | 8.4.5 区间选点问题 | [UVa 10148 - Advertisement](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1089)  | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10148-Advertisement) |
 | 8.4.6 区间覆盖问题 | NoneOJ 4 Interval Coverage | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_4-Interval_Coverage) |
@@ -163,7 +163,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 9.2_1 嵌套矩形 | [NYOJ 16 ](http://poj.org/problem?id=1163) | [Java]() |
+| 9.2_1 嵌套矩形 | [NYOJ 16 矩形嵌套](http://www.51mxd.cn/problem.php-pid=16.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_16-Nested_Rectangle) |
 | 9.2_2 硬币问题 | [Liuser's OJ 725 硬币问题](http://liuseroj.picp.io/problem/725) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LiusersOJ_725-Coin_Problem) |
 
 ### 9.3 0-1背包问题
@@ -179,7 +179,7 @@
 | --- | --- | --- |
 | 9.4.1 表达式上的动态规划 | [UVa 348 - Optimal Array Multiplication Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=284) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_348-Optimal_Array_Multiplication_Sequence) |
 | 9.4.2 凸多边形上的动态规划 | [UVa 1331 - Minimax Triangulation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4077) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1331-Minimax_Triangulation) |
-| 9.4.3 树上的动态规划 | [UVa 1220 - Party at Hali-Bula](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3661) | [C++]() |
+| 9.4.3 树上的动态规划 | [UVa 1220 - Party at Hali-Bula](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3661) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1220-Party_at_Hali-Bula) |
 
 ### 9.5 集合上的动态规划
 
@@ -197,14 +197,14 @@
 | 10.1.2 无平方因子的数 | [HDUOJ 3826 Squarefree number](http://acm.hdu.edu.cn/showproblem.php?pid=3826) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_3826-Squarefree_number) |
 | 10.1.3 直线上的点 | [POJ 1061 青蛙的约会](http://poj.org/problem?id=1061) | [C++]() |
 | 10.1.4_1 大整数取模 | NoneOJ 6 Big Int Module | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_6-Big_Int_Module) |
-| 10.1.4_2 幂取模 | NoneOJ 7 Power Module | [C++]() |
+| 10.1.4_2 幂取模 | NoneOJ 7 Power Module | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_7-Power_Module) |
 | 10.1.4_3 模线性方程 | [POJ 2142 The Balance](http://poj.org/problem?id=2142) | [C++]() |
 
 ### 10.2 排列与组合
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 10.2.1 无关的元素 | [UVa 1635 - Irrelevant Elements](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4510) | [C++]() |
+| 10.2.1 无关的元素 | [UVa 1635 - Irrelevant Elements](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4510) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1635-Irrelevant_Elements) |
 | 10.2.2_1 约数的个数 | [UVa 294 - Divisors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_294-Divisors) |
 | 10.2.2_2 小于n且与n互素的个数 | [UVa 10820 - Send a Table](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10820-Send_a_Table) |
 | 10.2.4 离散概率初步 | [LightOJ 1104 Birthday Paradox](https://vjudge.net/problem/LightOJ-1104) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/LightOJ_1104-Birthday_Paradox) |
@@ -214,10 +214,10 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 10.3.1 汉诺塔 | [OpenJudge_Bailian 4147 Hanoi](https://vjudge.net/problem/OpenJ_Bailian-4147) | [C++]() |
-| 10.3.2 Fibonacci数列 | [51Nod-1242 斐波那契数列的第N项](https://vjudge.net/problem/51Nod-1242) | [C++]() |
-| 10.3.3 Catalan数 | [UVa 991 - Safe Salutations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932) | [C++]() |
-| 10.3.4 危险的组合 | [UVa 580 - Critical Mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=521) | [C++]() |
-| 10.3.5 统计n-k中特殊集的数目 | [入门OJ 1377 N-K集合](https://begin.lydsy.com/JudgeOnline/problem.php?id=1377) | [C++]() |
+| 10.3.2 Fibonacci数列 | [51Nod-1242 斐波那契数列的第N项](https://vjudge.net/problem/51Nod-1242) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/51Nod_1242-Nth_Fibonacci) |
+| 10.3.3 Catalan数 | [UVa 991 - Safe Salutations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_991-Safe_Salutations) |
+| 10.3.4 危险的组合 | [UVa 580 - Critical Mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=521) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_580-Critical_Mass) |
+| 10.3.5 统计n-k中特殊集的数目 | [入门OJ 1377 N-K集合](https://begin.lydsy.com/JudgeOnline/problem.php?id=1377) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/BeginOJ_1377-N_K_Set) |
 
 ## 第11章 图论模型与算法
 
@@ -225,24 +225,24 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 11.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度派生类可以访问基类中的protected](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++]() |
+| 11.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度派生类可以访问基类中的protected](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_20-Awkward_Country) |
 | 11.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++]() |
-| 11.1.3 最小生成树 | [UVa 10034 - Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++]() |
-| 11.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++]() |
+| 11.1.3 最小生成树 | [UVa 10034 - Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10034-Freckles) |
+| 11.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_1863-Smooth_Project) |
 
 ### 11.2 最短路问题
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 11.2.1-3 Dijkstra算法 | [HDUOJ 2544 最短路](http://acm.hdu.edu.cn/showproblem.php?pid=2544) | [C++]() |
+| 11.2.1-3 Dijkstra算法 | [HDUOJ 2544 最短路](http://acm.hdu.edu.cn/showproblem.php?pid=2544) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_2544-Shortest) |
 | 11.2.4 Bellman-Ford算法 | [POJ 3259 Wormholes](http://poj.org/problem?id=3259) | [C++]() |
 
 ### 11.3 网络流初步
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 11.3.2 增广路算法 | [HDUOJ 1532 Drainage Ditches](http://acm.hdu.edu.cn/showproblem.php?pid=1532) | [C++]() |
-| 11.3.3 最小割最大流定理 | [HDUOJ 3987 Harry Potter and the Forbidden Forest](http://acm.hdu.edu.cn/showproblem.php?pid=3987) | [C++]() |
+| 11.3.2 增广路算法 | [HDUOJ 1532 Drainage Ditches](http://acm.hdu.edu.cn/showproblem.php?pid=1532) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_1532-Drainage_Ditches) |
+| 11.3.3 最小割最大流定理 | [HDUOJ 3987 Harry Potter and the Forbidden Forest](http://acm.hdu.edu.cn/showproblem.php?pid=3987) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_3987-Harry_Potter_and_the_Forbidden_Forest) |
 | 11.3.4 最小费用最大流问题 | []() | [C++]() |
 
 # 算法竞赛入门经典第二版
@@ -268,7 +268,7 @@
 | 习题3-2 | [UVa 1586 - Molar mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4461) | [C++]() |  |
 | 习题3-3 | [UVa 1225 - Digit Counting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3666) | [C++]() |  |
 | 习题3-4 | [UVa 455 - Periodic Strings](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=396) | [C++]() |  |
-| 习题3-5 | [UVa 	227 - Puzzle](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=163) | [C++]() |  |
+| 习题3-5 | [UVa 227 - Puzzle](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=163) | [C++]() |  |
 | 习题3-6 | [UVa 232 - Crossword Answers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=168) | [C++]() |  |
 | 习题3-7 | [UVa 1368 - DNA Consensus String](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4114) | [C++]() |  |
 | 习题3-8 | [UVa 202 - Repeating Decimals](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=138) | [C++]() |  |
@@ -277,6 +277,33 @@
 | 习题3-11 | [UVa 1588 - Kickdown](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4463) | [C++]() |  |
 | 习题3-12 | [UVa 11809 - Floating-Point Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2909) | [C++]() |  |
 
+## 第4章 函数和递归
+
+### 例题
+
+| Example | Problem | Solution | remark |
+| --- | --- | --- | --- |
+| 例题4-1 | [UVa ]() | [C++]() | 排序 |
+| 例题4-2 | [UVa ]() | [C++]() | 自顶向下逐步求精法 |
+| 例题4-3 | [UVa ]() | [C++]() | 子过程（函数）设计 |
+| 例题4-4 | [UVa ]() | [C++]() | 二进制;输入技巧;调试技巧 |
+| 例题4-5 | [UVa ]() | [C++]() | 模拟;一题多解 |
+| 例题4-6 | [UVa ]() | [C++]() | 综合练习 |
+
+### 习题
+
+| Example | Problem | Solution | remark |
+| --- | --- | --- | --- |
+| 习题4-1 | [UVa ]() | [C++]() |  |
+| 习题4-2 | [UVa ]() | [C++]() |  |
+| 习题4-3 | [UVa ]() | [C++]() |  |
+| 习题4-4 | [UVa ]() | [C++]() |  |
+| 习题4-5 | [UVa ]() | [C++]() |  |
+| 习题4-6 | [UVa ]() | [C++]() |  |
+| 习题4-7 | [UVa ]() | [C++]() |  |
+| 习题4-8 | [UVa ]() | [C++]() |  |
+| 习题4-9 | [UVa ]() | [C++]() |  |
+| 习题4-10 | [UVa ]() | [C++]() |  |
 
 
 # 巩固
