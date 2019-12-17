@@ -283,27 +283,27 @@
 
 | Example | Problem | Solution | remark |
 | --- | --- | --- | --- |
-| 例题4-1 | [UVa ]() | [C++]() | 排序 |
-| 例题4-2 | [UVa ]() | [C++]() | 自顶向下逐步求精法 |
-| 例题4-3 | [UVa ]() | [C++]() | 子过程（函数）设计 |
-| 例题4-4 | [UVa ]() | [C++]() | 二进制;输入技巧;调试技巧 |
-| 例题4-5 | [UVa ]() | [C++]() | 模拟;一题多解 |
-| 例题4-6 | [UVa ]() | [C++]() | 综合练习 |
+| 例题4-1 | [UVa 1339 - Ancient Cipher](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4085) | [C++]() | 排序 |
+| 例题4-2 | [UVa 489 - Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=430) | [C++]() | 自顶向下逐步求精法 |
+| 例题4-3 | [UVa 133 - The Dole Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=69) | [C++]() | 子过程（函数）设计 |
+| 例题4-4 | [UVa 213 - Message Decoding](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=149) | [C++]() | 二进制;输入技巧;调试技巧 |
+| 例题4-5 | [UVa 512 - Spreadsheet Tracking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=453) | [C++]() | 模拟;一题多解 |
+| 例题4-6 | [UVa 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | 综合练习 |
 
 ### 习题
 
 | Example | Problem | Solution | remark |
 | --- | --- | --- | --- |
-| 习题4-1 | [UVa ]() | [C++]() |  |
-| 习题4-2 | [UVa ]() | [C++]() |  |
-| 习题4-3 | [UVa ]() | [C++]() |  |
-| 习题4-4 | [UVa ]() | [C++]() |  |
-| 习题4-5 | [UVa ]() | [C++]() |  |
-| 习题4-6 | [UVa ]() | [C++]() |  |
-| 习题4-7 | [UVa ]() | [C++]() |  |
-| 习题4-8 | [UVa ]() | [C++]() |  |
-| 习题4-9 | [UVa ]() | [C++]() |  |
-| 习题4-10 | [UVa ]() | [C++]() |  |
+| 习题4-1 | [UVa 1589 - Xiangqi](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4464) | [C++]() |  |
+| 习题4-2 | [UVa 201 - Squares](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=137) | [C++]() |  |
+| 习题4-3 | [UVa 220 - Othello](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=156) | [C++]() |  |
+| 习题4-4 | [UVa 253 - Cube painting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=189) | [C++]() |  |
+| 习题4-5 | [UVa 1590 - IP Networks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4465) | [C++]() |  |
+| 习题4-6 | [UVa 508 - Morse Mismatches](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=449) | [C++]() |  |
+| 习题4-7 | [UVa 509 - RAID!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=450) | [C++]() |  |
+| 习题4-8 | [UVa 12108 - Extraordinarily Tired Students](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=243&page=show_problem&problem=3260) | [C++]() |  |
+| 习题4-9 | [UVa 1591 - Data Mining](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4466) | [C++]() |  |
+| 习题4-10 | [UVa 815 - Flooded!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=756) | [C++]() |  |
 
 
 # 巩固
