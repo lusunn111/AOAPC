@@ -195,7 +195,7 @@
 | --- | --- | --- |
 | 10.1.1 除法表达式 | [Lutece 469 除法表达式](https://acm.uestc.edu.cn/problem/chu-fa-biao-da-shi/description) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/Lutece_469-Division_expression) |
 | 10.1.2 无平方因子的数 | [HDUOJ 3826 Squarefree number](http://acm.hdu.edu.cn/showproblem.php?pid=3826) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_3826-Squarefree_number) |
-| 10.1.3 直线上的点 | [POJ 1061 青蛙的约会](http://poj.org/problem?id=1061) | [C++]() |
+| 10.1.3 直线上的点 | [POJ 1061 青蛙的约会](http://poj.org/problem?id=1061) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1061-Frogs_date) |
 | 10.1.4_1 大整数取模 | NoneOJ 6 Big Int Module | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_6-Big_Int_Module) |
 | 10.1.4_2 幂取模 | NoneOJ 7 Power Module | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_7-Power_Module) |
 | 10.1.4_3 模线性方程 | [POJ 2142 The Balance](http://poj.org/problem?id=2142) | [C++]() |
@@ -213,7 +213,7 @@
 
 | Example | Problem | Solution |
 | --- | --- | --- |
-| 10.3.1 汉诺塔 | [OpenJudge_Bailian 4147 Hanoi](https://vjudge.net/problem/OpenJ_Bailian-4147) | [C++]() |
+| 10.3.1 汉诺塔 | [OpenJudge_Bailian 4147 Hanoi](https://vjudge.net/problem/OpenJ_Bailian-4147) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/OpenJudge_Bailian_4147-Hanoi) |
 | 10.3.2 Fibonacci数列 | [51Nod-1242 斐波那契数列的第N项](https://vjudge.net/problem/51Nod-1242) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/51Nod_1242-Nth_Fibonacci) |
 | 10.3.3 Catalan数 | [UVa 991 - Safe Salutations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_991-Safe_Salutations) |
 | 10.3.4 危险的组合 | [UVa 580 - Critical Mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=521) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_580-Critical_Mass) |
@@ -226,7 +226,7 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 11.1.1 无根树转有根树 | [NYOJ 20 吝啬的国度派生类可以访问基类中的protected](http://www.51mxd.cn/problem.php-pid=20.htm) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NYOJ_20-Awkward_Country) |
-| 11.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++]() |
+| 11.1.2 表达式树 | [POJ 1686 Lazy Math Instructor](http://poj.org/problem?id=1686) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1686-Lazy_Math_Instructor) |
 | 11.1.3 最小生成树 | [UVa 10034 - Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10034-Freckles) |
 | 11.1.4 并查集 | [HDUOJ 1863 畅通工程](http://acm.hdu.edu.cn/showproblem.php?pid=1863) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_1863-Smooth_Project) |
 
