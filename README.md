@@ -198,7 +198,7 @@
 | 10.1.3 直线上的点 | [POJ 1061 青蛙的约会](http://poj.org/problem?id=1061) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_1061-Frogs_date) |
 | 10.1.4_1 大整数取模 | NoneOJ 6 Big Int Module | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_6-Big_Int_Module) |
 | 10.1.4_2 幂取模 | NoneOJ 7 Power Module | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/NoneOJ_7-Power_Module) |
-| 10.1.4_3 模线性方程 | [POJ 2142 The Balance](http://poj.org/problem?id=2142) | [C++]() |
+| 10.1.4_3 模线性方程 | [POJ 2142 The Balance](http://poj.org/problem?id=2142) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_2142-The_Balance) |
 
 ### 10.2 排列与组合
 
@@ -235,7 +235,7 @@
 | Example | Problem | Solution |
 | --- | --- | --- |
 | 11.2.1-3 Dijkstra算法 | [HDUOJ 2544 最短路](http://acm.hdu.edu.cn/showproblem.php?pid=2544) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/HDUOJ_2544-Shortest) |
-| 11.2.4 Bellman-Ford算法 | [POJ 3259 Wormholes](http://poj.org/problem?id=3259) | [C++]() |
+| 11.2.4 Bellman-Ford算法 | [POJ 3259 Wormholes](http://poj.org/problem?id=3259) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/POJ_3259-Wormholes) |
 
 ### 11.3 网络流初步
 
@@ -272,7 +272,7 @@
 | 习题3-6 | [UVa 232 - Crossword Answers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=168) | [C++]() |  |
 | 习题3-7 | [UVa 1368 - DNA Consensus String](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4114) | [C++]() |  |
 | 习题3-8 | [UVa 202 - Repeating Decimals](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=138) | [C++]() |  |
-| 习题3-9 | [UVa 10340 - All in All](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1281) | [C++]() |  |
+| 习题3-9 | [UVa 10340 - All in All](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1281) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10340-All_in_All) |  |
 | 习题3-10 | [UVa 1587 - Box](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4462) | [C++]() |  |
 | 习题3-11 | [UVa 1588 - Kickdown](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4463) | [C++]() |  |
 | 习题3-12 | [UVa 11809 - Floating-Point Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2909) | [C++]() |  |
@@ -283,8 +283,8 @@
 
 | Example | Problem | Solution | remark |
 | --- | --- | --- | --- |
-| 例题4-1 | [UVa 1339 - Ancient Cipher](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4085) | [C++]() | 排序 |
-| 例题4-2 | [UVa 489 - Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=430) | [C++]() | 自顶向下逐步求精法 |
+| 例题4-1 | [UVa 1339 - Ancient Cipher](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4085) | [C++]() |  |
+| 例题4-2 | [UVa 489 - Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=430) | [C++]() |  |
 | 例题4-3 | [UVa 133 - The Dole Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=69) | [C++]() | 子过程（函数）设计 |
 | 例题4-4 | [UVa 213 - Message Decoding](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=149) | [C++]() | 二进制;输入技巧;调试技巧 |
 | 例题4-5 | [UVa 512 - Spreadsheet Tracking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=453) | [C++]() | 模拟;一题多解 |
