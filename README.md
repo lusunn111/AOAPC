@@ -275,7 +275,7 @@
 | 习题3-9 | [UVa 10340 - All in All](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1281) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10340-All_in_All) |  |
 | 习题3-10 | [UVa 1587 - Box](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4462) | [C++]() |  |
 | 习题3-11 | [UVa 1588 - Kickdown](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4463) | [C++]() |  |
-| 习题3-12 | [UVa 11809 - Floating-Point Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2909) | [C++]() |  |
+| 习题3-12 | [UVa 11809 - Floating-Point Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2909) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_11809-Floating_Point_Numbers) |  |
 
 ## 第4章 函数和递归
 
@@ -288,7 +288,7 @@
 | 例题4-3 | [UVa 133 - The Dole Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=69) | [C++]() | 子过程（函数）设计 |
 | 例题4-4 | [UVa 213 - Message Decoding](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=149) | [C++]() | 二进制;输入技巧;调试技巧 |
 | 例题4-5 | [UVa 512 - Spreadsheet Tracking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=453) | [C++]() | 模拟;一题多解 |
-| 例题4-6 | [UVa 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | 综合练习 |
+| 例题4-6 | [UVa 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | 综合练习 |
 
 ### 习题
 
@@ -305,11 +305,10 @@
 | 习题4-9 | [UVa 1591 - Data Mining](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4466) | [C++]() |  |
 | 习题4-10 | [UVa 815 - Flooded!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=756) | [C++]() |  |
 
-
 # 巩固
 
 表达式树
-[UVa 12219 - Common Subexpression Elimination](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3371)
+[UVa 12219 - Common Subexpression Elimination](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=244&page=show_problem&problem=3371)(https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_12219-Common_Subexpression_Elimination)
 
 最小生成树
 
