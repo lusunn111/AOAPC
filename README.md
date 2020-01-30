@@ -253,12 +253,12 @@
 
 | Example | Problem | Solution | remark |
 | --- | --- | --- | --- |
-| 例题3-1 | [UVa 272 - TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=208) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/272-TEX_Quotes) | 输入输出详解 |
-| 例题3-2 | [UVa 10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10082-WERTYU) | 常量数组的妙用 |
-| 例题3-3 | [UVa 401 - Palindromes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=342) | [C++]() | 字符函数;常量数组 |
-| 例题3-4 | [UVa 340 - Master-Mind Hints]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=276) | 用数组统计 |
-| 例题3-5 | [UVa 1583 - Digit Generator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1583-Digit_Generator) | 预处理、查表 |
-| 例题3-6 | [UVa 1584 - Circular Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1584-Circular_Sequence) | 字典序 |
+| 例题3-1 | [UVa 272 - TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=208) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/272-TEX_Quotes) |  |
+| 例题3-2 | [UVa 10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10082-WERTYU) |  |
+| 例题3-3 | [UVa 401 - Palindromes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=342) | [C++]() |  |
+| 例题3-4 | [UVa 340 - Master-Mind Hints]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=276) |  |
+| 例题3-5 | [UVa 1583 - Digit Generator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1583-Digit_Generator) |  |
+| 例题3-6 | [UVa 1584 - Circular Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1584-Circular_Sequence) |  |
 
 ### 习题
 
@@ -285,10 +285,10 @@
 | --- | --- | --- | --- |
 | 例题4-1 | [UVa 1339 - Ancient Cipher](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4085) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1339-Ancient_Cipher) |  |
 | 例题4-2 | [UVa 489 - Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=430) | [C++]() |  |
-| 例题4-3 | [UVa 133 - The Dole Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=69) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_133-The_Dole_Queue) | 子过程（函数）设计 |
-| 例题4-4 | [UVa 213 - Message Decoding](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=149) | [C++]() | 二进制;输入技巧;调试技巧 |
-| 例题4-5 | [UVa 512 - Spreadsheet Tracking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=453) | [C++]() | 模拟;一题多解 |
-| 例题4-6 | [UVa 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | 综合练习 |
+| 例题4-3 | [UVa 133 - The Dole Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=69) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_133-The_Dole_Queue) |  |
+| 例题4-4 | [UVa 213 - Message Decoding](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=149) | [C++]() |  |
+| 例题4-5 | [UVa 512 - Spreadsheet Tracking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=453) | [C++]() |  |
+| 例题4-6 | [UVa 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) |  |
 
 ### 习题
 
