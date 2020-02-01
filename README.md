@@ -317,12 +317,12 @@
 | 例题5-4 | [UVa 156 - Ananagrams](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=92) | [JAVA]() |  |
 | 例题5-5 | [UVa 12096 - The SetStack Computer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=242&page=show_problem&problem=3248) | [JAVA]() |  |
 | 例题5-6 | [UVa 540 - Team Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=481) | [JAVA]() |  |
-| 例题5-7 | [UVa 136 - Ugly Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=72) | []() |  |
-| 例题5-8 | [UVa 400 - Unix ls](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=341) | []() |  |
-| 例题5-9 | [UVa 1592 - Database](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4467) | []() |  |
-| 例题5-10 | [UVa 207 - PGA Tour Prize Money](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=143) | []() |  |
-| 例题5-11 | [UVa 814 - The Letter Carrier's Rounds](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=755) | []() |  |
-| 例题5-12 | [UVa 221 - Urban Elevations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=157) | []() |  |
+| 例题5-7 | [UVa 136 - Ugly Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=72) | [JAVA]() |  |
+| 例题5-8 | [UVa 400 - Unix ls](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=341) | [JAVA]() |  |
+| 例题5-9 | [UVa 1592 - Database](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4467) | [JAVA]() |  |
+| 例题5-10 | [UVa 207 - PGA Tour Prize Money](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=143) | [JAVA]() |  |
+| 例题5-11 | [UVa 814 - The Letter Carrier's Rounds](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=755) | [JAVA]() |  |
+| 例题5-12 | [UVa 221 - Urban Elevations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=157) | [JAVA]() |  |
 
 ### 习题
 
