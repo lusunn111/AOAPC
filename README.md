@@ -251,100 +251,124 @@
 
 ### 例题
 
-| Example | Problem | Solution | remark |
-| --- | --- | --- | --- |
-| 例题3-1 | [UVa 272 - TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=208) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/272-TEX_Quotes) |  |
-| 例题3-2 | [UVa 10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10082-WERTYU) |  |
-| 例题3-3 | [UVa 401 - Palindromes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=342) | [C++]() |  |
-| 例题3-4 | [UVa 340 - Master-Mind Hints]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=276) |  |
-| 例题3-5 | [UVa 1583 - Digit Generator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1583-Digit_Generator) |  |
-| 例题3-6 | [UVa 1584 - Circular Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1584-Circular_Sequence) |  |
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 例题3-1 | [UVa 272 - TEX Quotes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=208) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/272-TEX_Quotes) |
+| 例题3-2 | [UVa 10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023) | [C++](https://github.com/Ubuntu1996/AOAPC_II/tree/master/10082-WERTYU) |
+| 例题3-3 | [UVa 401 - Palindromes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=342) | [C++]() |
+| 例题3-4 | [UVa 340 - Master-Mind Hints]() | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=276) |
+| 例题3-5 | [UVa 1583 - Digit Generator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4458) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1583-Digit_Generator) |
+| 例题3-6 | [UVa 1584 - Circular Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4459) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1584-Circular_Sequence) |
 
 ### 习题
 
-| Example | Problem | Solution | remark |
-| --- | --- | --- | --- |
-| 习题3-1 | [UVa 1585 - Score](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4460) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1585-Score) |  |
-| 习题3-2 | [UVa 1586 - Molar mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4461) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1586-Molar_mass) |  |
-| 习题3-3 | [UVa 1225 - Digit Counting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3666) | [C++]() |  |
-| 习题3-4 | [UVa 455 - Periodic Strings](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=396) | [C++]() |  |
-| 习题3-5 | [UVa 227 - Puzzle](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=163) | [C++]() |  |
-| 习题3-6 | [UVa 232 - Crossword Answers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=168) | [C++]() |  |
-| 习题3-7 | [UVa 1368 - DNA Consensus String](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4114) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1368-DNA_Consensus_String) |  |
-| 习题3-8 | [UVa 202 - Repeating Decimals](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=138) | [C++]() |  |
-| 习题3-9 | [UVa 10340 - All in All](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1281) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10340-All_in_All) |  |
-| 习题3-10 | [UVa 1587 - Box](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4462) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1587-Box) |  |
-| 习题3-11 | [UVa 1588 - Kickdown](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4463) | [C++]() |  |
-| 习题3-12 | [UVa 11809 - Floating-Point Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2909) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_11809-Floating_Point_Numbers) |  |
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 习题3-1 | [UVa 1585 - Score](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4460) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1585-Score) |
+| 习题3-2 | [UVa 1586 - Molar mass](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4461) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1586-Molar_mass) |
+| 习题3-3 | [UVa 1225 - Digit Counting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3666) | [C++]() |
+| 习题3-4 | [UVa 455 - Periodic Strings](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=396) | [C++]() |
+| 习题3-5 | [UVa 227 - Puzzle](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=163) | [C++]() |
+| 习题3-6 | [UVa 232 - Crossword Answers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=168) | [C++]() |
+| 习题3-7 | [UVa 1368 - DNA Consensus String](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4114) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1368-DNA_Consensus_String) |
+| 习题3-8 | [UVa 202 - Repeating Decimals](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=138) | [C++]() |
+| 习题3-9 | [UVa 10340 - All in All](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1281) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_10340-All_in_All) |
+| 习题3-10 | [UVa 1587 - Box](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4462) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1587-Box) |
+| 习题3-11 | [UVa 1588 - Kickdown](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4463) | [C++]() |
+| 习题3-12 | [UVa 11809 - Floating-Point Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2909) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_11809-Floating_Point_Numbers) |
 
 ## 第4章 函数和递归
 
 ### 例题
 
-| Example | Problem | Solution | remark |
-| --- | --- | --- | --- |
-| 例题4-1 | [UVa 1339 - Ancient Cipher](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4085) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1339-Ancient_Cipher) |  |
-| 例题4-2 | [UVa 489 - Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=430) | [C++]() |  |
-| 例题4-3 | [UVa 133 - The Dole Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=69) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_133-The_Dole_Queue) |  |
-| 例题4-4 | [UVa 213 - Message Decoding](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=149) | [C++]() |  |
-| 例题4-5 | [UVa 512 - Spreadsheet Tracking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=453) | [C++]() |  |
-| 例题4-6 | [UVa 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) |  |
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 例题4-1 | [UVa 1339 - Ancient Cipher](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=446&page=show_problem&problem=4085) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_1339-Ancient_Cipher) |
+| 例题4-2 | [UVa 489 - Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=430) | [C++]() |
+| 例题4-3 | [UVa 133 - The Dole Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=69) | [C++](https://github.com/Ubuntu1996/AOAPC/tree/master/UVa_133-The_Dole_Queue) |
+| 例题4-4 | [UVa 213 - Message Decoding](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=149) | [C++]() |
+| 例题4-5 | [UVa 512 - Spreadsheet Tracking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=453) | [C++]() |
+| 例题4-6 | [UVa 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) | [C++](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3843) |
 
 ### 习题
 
-| Example | Problem | Solution | remark |
-| --- | --- | --- | --- |
-| 习题4-1 | [UVa 1589 - Xiangqi](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4464) | [C++]() |  |
-| 习题4-2 | [UVa 201 - Squares](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=137) | [C++]() |  |
-| 习题4-3 | [UVa 220 - Othello](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=156) | [C++]() |  |
-| 习题4-4 | [UVa 253 - Cube painting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=189) | [C++]() |  |
-| 习题4-5 | [UVa 1590 - IP Networks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4465) | [JAVA]() |  |
-| 习题4-6 | [UVa 508 - Morse Mismatches](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=449) | [JAVA]() |  |
-| 习题4-7 | [UVa 509 - RAID!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=450) | [JAVA]() |  |
-| 习题4-8 | [UVa 12108 - Extraordinarily Tired Students](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=243&page=show_problem&problem=3260) | [JAVA]() |  |
-| 习题4-9 | [UVa 1591 - Data Mining](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4466) | [JAVA]() |  |
-| 习题4-10 | [UVa 815 - Flooded!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=756) | [JAVA]() |  |
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 习题4-1 | [UVa 1589 - Xiangqi](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4464) | [C++]() |
+| 习题4-2 | [UVa 201 - Squares](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=137) | [C++]() |
+| 习题4-3 | [UVa 220 - Othello](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=156) | [C++]() |
+| 习题4-4 | [UVa 253 - Cube painting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=189) | [C++]() |
+| 习题4-5 | [UVa 1590 - IP Networks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4465) | [JAVA]() |
+| 习题4-6 | [UVa 508 - Morse Mismatches](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=449) | [JAVA]() |
+| 习题4-7 | [UVa 509 - RAID!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=450) | [JAVA]() |
+| 习题4-8 | [UVa 12108 - Extraordinarily Tired Students](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=243&page=show_problem&problem=3260) | [JAVA]() |
+| 习题4-9 | [UVa 1591 - Data Mining](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4466) | [JAVA]() |
+| 习题4-10 | [UVa 815 - Flooded!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=756) | [JAVA]() |
 
 ## 第5章 C++与STL入门
 
 ### 例题
 
-| Example | Problem | Solution | remark |
-| --- | --- | --- | --- |
-| 例题5-1 | [UVa 10474 - Where is the Marble?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1415) | [JAVA]() |  |
-| 例题5-2 | [UVa 101 - The Blocks Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=37) | [JAVA]() |  |
-| 例题5-3 | [UVa 10815 - Andy's First Dictionary](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=20&page=show_problem&problem=1756) | [JAVA]() |  |
-| 例题5-4 | [UVa 156 - Ananagrams](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=92) | [JAVA]() |  |
-| 例题5-5 | [UVa 12096 - The SetStack Computer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=242&page=show_problem&problem=3248) | [JAVA]() |  |
-| 例题5-6 | [UVa 540 - Team Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=481) | [JAVA]() |  |
-| 例题5-7 | [UVa 136 - Ugly Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=72) | [JAVA]() |  |
-| 例题5-8 | [UVa 400 - Unix ls](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=341) | [JAVA]() |  |
-| 例题5-9 | [UVa 1592 - Database](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4467) | [JAVA]() |  |
-| 例题5-10 | [UVa 207 - PGA Tour Prize Money](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=143) | [JAVA]() |  |
-| 例题5-11 | [UVa 814 - The Letter Carrier's Rounds](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=755) | [JAVA]() |  |
-| 例题5-12 | [UVa 221 - Urban Elevations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=157) | [JAVA]() |  |
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 例题5-1 | [UVa 10474 - Where is the Marble?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1415) | [JAVA]() |
+| 例题5-2 | [UVa 101 - The Blocks Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=37) | [JAVA]() |
+| 例题5-3 | [UVa 10815 - Andy's First Dictionary](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=20&page=show_problem&problem=1756) | [JAVA]() |
+| 例题5-4 | [UVa 156 - Ananagrams](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=92) | [JAVA]() |
+| 例题5-5 | [UVa 12096 - The SetStack Computer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=242&page=show_problem&problem=3248) | [JAVA]() |
+| 例题5-6 | [UVa 540 - Team Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=481) | [JAVA]() |
+| 例题5-7 | [UVa 136 - Ugly Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=72) | [JAVA]() |
+| 例题5-8 | [UVa 400 - Unix ls](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=341) | [JAVA]() |
+| 例题5-9 | [UVa 1592 - Database](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4467) | [JAVA]() |
+| 例题5-10 | [UVa 207 - PGA Tour Prize Money](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=143) | [JAVA]() |
+| 例题5-11 | [UVa 814 - The Letter Carrier's Rounds](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=755) | [JAVA]() |
+| 例题5-12 | [UVa 221 - Urban Elevations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=157) | [JAVA]() |
 
 ### 习题
 
-| Example | Problem | Solution | remark |
-| --- | --- | --- | --- |
-| 习题5-1 | [UVa 1593 - Alignment of Code](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4468) | []() |  |
-| 习题5-2 | [UVa 1594 - Ducci Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4469) | []() |  |
-| 习题5-3 | [UVa 10935 - Throwing cards away I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876) solved| []() |  |
-| 习题5-4 | [UVa 10763 - Foreign Exchange](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1704) | []() |  |
-| 习题5-5 | [UVa 10391 - Compound Words](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1332) | []() |  |
-| 习题5-6 | [UVa 1595 - Symmetry](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4470) | []() |  |
-| 习题5-7 | [UVa 12100 - Printer Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=243&page=show_problem&problem=3252) | []() |  |
-| 习题5-8 | [UVa 230 - Borrowers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=166) | []() |  |
-| 习题5-9 | [UVa 1596 - Bug Hunt](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4471) | []() |  |
-| 习题5-10 | [UVa 1597 - Searching the Web](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4472) | []() |  |
-| 习题5-11 | [UVa 12504 - Updating a Dictionary](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=3948) | []() |  |
-| 习题5-12 | [UVa 511 - Do You Know the Way to San Jose?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=452) | []() |  |
-| 习题5-13 | [UVa 822 - Queue and A](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=763) | []() |  |
-| 习题5-14 | [UVa 1598 - Exchange](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4473) | []() |  |
-| 习题5-15 | [UVa 12333 - Revenge of Fibonacci](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=278&page=show_problem&problem=3755) | []() |  |
-| 习题5-16 | [UVa 212 - Use of Hospital Facilities](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=148) | []() |  |
+| Example | Problem | Solution |
+| --- | --- | --- |
+| 习题5-1 | [UVa 1593 - Alignment of Code](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4468) | []() |
+| 习题5-2 | [UVa 1594 - Ducci Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4469) | []() |
+| 习题5-3 | [UVa 10935 - Throwing cards away I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876) solved| []() |
+| 习题5-4 | [UVa 10763 - Foreign Exchange](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1704) | []() |
+| 习题5-5 | [UVa 10391 - Compound Words](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1332) | []() |
+| 习题5-6 | [UVa 1595 - Symmetry](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4470) | []() |
+| 习题5-7 | [UVa 12100 - Printer Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=243&page=show_problem&problem=3252) | []() |
+| 习题5-8 | [UVa 230 - Borrowers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=166) | []() |
+| 习题5-9 | [UVa 1596 - Bug Hunt](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4471) | []() |
+| 习题5-10 | [UVa 1597 - Searching the Web](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4472) | []() |
+| 习题5-11 | [UVa 12504 - Updating a Dictionary](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=441&page=show_problem&problem=3948) | []() |
+| 习题5-12 | [UVa 511 - Do You Know the Way to San Jose?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=452) | []() |
+| 习题5-13 | [UVa 822 - Queue and A](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=763) | []() |
+| 习题5-14 | [UVa 1598 - Exchange](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4473) | []() |
+| 习题5-15 | [UVa 12333 - Revenge of Fibonacci](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=278&page=show_problem&problem=3755) | []() |
+| 习题5-16 | [UVa 212 - Use of Hospital Facilities](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=148) | []() |
 
+
+
+## 第6章 数据结构基础
+
+### 6.1 再谈栈和队列
+
+#### 例题
+
+| Example | Problem  | Solution |
+| ------- | -------------- | -------- |
+| 例题6-1 | [210 - Concurrency Simulator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=146) | [JAVA]() |
+| 例题6-2 |    | [JAVA]() |
+
+# 剑指offer第二版
+
+| Example | Problem | Solution |
+| ------- | ------ | ----- |
+| 2.3.1 数组（面试题3） | [数组中重复的数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tqId=11203&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |[]()|
+| 2.3.1 数组（面试题4） | [二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |[]()|
+| 2.3.2 字符串（面试题5） | [替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |[]()|
+| 2.3.3 链表（面试题6） | [从尾到头打印链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |[]()|
+|  |  ||
+|  |  ||
+|  | ||
 # 巩固
 
 表达式树
